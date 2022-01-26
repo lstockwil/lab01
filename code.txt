@@ -1,2 +1,2 @@
 int y = 10;
-int x = 78;
+int x = 30;
