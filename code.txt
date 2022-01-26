@@ -1,2 +1,2 @@
 int y = 10;
-int x = 45;
+int x = 0; //branch is master
